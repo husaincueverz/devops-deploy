@@ -2,7 +2,7 @@ replicaCount: 5
 
 image:
   repository: cueverz/devops-frontend
-  tag: "04"
+  tag: "03"
 
 backendService:
   host: "python-api"
