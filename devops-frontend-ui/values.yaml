@@ -1,0 +1,13 @@
+replicaCount: 1
+
+image:
+  repository: cueverz/devops-frontend
+  tag: "04"
+
+backendService:
+  host: "python-api"
+  port: "8000"
+
+service:
+  type: ClusterIP
+  port: 3000
