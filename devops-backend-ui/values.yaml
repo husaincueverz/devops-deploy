@@ -1,6 +1,6 @@
 image:
   repository: cueverz/devops-backend
-  tag: "0"
+  tag: "01"
 
 service:
   type: NodePort
