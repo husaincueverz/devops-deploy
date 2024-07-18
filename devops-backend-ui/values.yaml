@@ -12,10 +12,4 @@ mysql:
   user: helmdb
   password: Team1234#
 
-ingress:
-  enabled: false
-  annotations: {}
-  hosts:
-    - host: chart-example.local
-      paths: []
-  tls: []
+
